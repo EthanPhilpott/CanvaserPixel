@@ -1,1 +1,1 @@
-# CanvaserPlus
+# CanvaserPixel
